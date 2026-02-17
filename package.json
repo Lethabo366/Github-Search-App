@@ -1,0 +1,21 @@
+{
+  "name": "git-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "npx nodemon app.js"
+  },
+  "author": "Lethabo Kaphioa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.2.1",
+    "helmet": "8.1.0",
+    "request": "2.88.2"
+  },
+  "devDependencies": {
+    "chai": "6.2.2",
+    "mocha": "11.7.5"
+  }
+}

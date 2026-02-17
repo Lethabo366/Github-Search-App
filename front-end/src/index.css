@@ -1,0 +1,175 @@
+/* General Styling */
+
+body {
+  background-color: lightblue;
+}
+
+.sub-description {
+  font-weight: 900;
+}
+
+.sub-headings {
+  text-decoration: underline;
+  font-size: 25px;
+  color: royalblue;
+}
+
+/* links  */
+.repo_links {
+  color: orange;
+  text-decoration: underline;
+}
+
+.github_link_button {
+  background-color: orange;
+  font-weight: 700;
+  color: white;
+  border-radius: 17px;
+  font-size: 20px;
+  padding: 7px;
+}
+
+/* Main page styling */
+.main-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  font-size: 80px;
+  color: royalblue;
+}
+.userCard {
+  display: flex;
+  flex-direction: column;
+  border: 7px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+  transition: 0.3s;
+  width: 70%;
+  align-items: center;
+  margin: 15px;
+}
+
+.userInfo {
+  display: flex;
+}
+
+.user_img img {
+  border: 7px solid blue;
+  border-radius: 50%;
+  margin: 10px 10px 1px 10px;
+  width: 50%;
+}
+
+.content {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.content h4 {
+  font-weight: 100;
+}
+
+.view-button {
+  border: 3px solid black;
+  border-radius: 20px;
+  align-items: center;
+  font-weight: 600;
+  font-size: 17px;
+  color: white;
+  margin: 15px;
+  padding: 8px 16px;
+  background-color: orange;
+}
+
+.search-input {
+  border: 3px solid black;
+  font-size: 40px;
+  border-radius: 15px;
+  margin: 15px;
+  text-align: center;
+}
+
+.search-button {
+  font-size: 35px;
+  font-weight: 500;
+  color: white;
+  border-radius: 15px;
+  border: 5px solid black;
+  background-color: orange;
+}
+
+.main-page {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.user_info_li {
+  text-align: left;
+  font-size: 25px;
+  list-style-type: none;
+  padding: 7px;
+}
+
+/* Display User Styling */
+.display_user_image {
+  border: 9px solid royalblue;
+  border-radius: 13px;
+}
+
+.display_user_header {
+  font-size: 40px;
+  color: royalblue;
+  text-decoration: underline;
+}
+
+.display_user_page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.repo_link_li {
+  padding: 3px;
+}
+
+/* Display User Repo Styling */
+
+.repo-header {
+  font-size: 35px;
+  text-decoration: underline;
+  color: royalblue;
+}
+.display_user_repo_page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.repo-details {
+  font-size: 23px;
+  list-style-type: none;
+}
+
+.repo-details li {
+  padding: 2px 0px;
+}
+.commit-info {
+  font-size: 20px;
+  word-wrap: break-word;
+}
+
+.commit-section {
+  align-items: center;
+}
+
+/* Loading icon Styling */
+
+.loading-image {
+  height: 50px;
+  width: 50px;
+}
