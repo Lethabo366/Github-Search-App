@@ -88,7 +88,7 @@ cd Github-Search-App
 ### 2. Install dependencies
 
 #### Backend
-cd back-end
+cd Search User App
 npm install
 
 #### Frontend
@@ -99,7 +99,7 @@ npm install
 ### 3. Run the application
 
 #### Start backend server
-cd back-end
+cd Search User App
 npm start
 
 #### Start frontend
