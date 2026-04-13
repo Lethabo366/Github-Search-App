@@ -4,6 +4,29 @@ A full-stack web application that integrates with the GitHub API to provide a se
 
 ---
 
+## Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [API](#api)
+- [How It Works](#️-how-it-works)
+- [Security](#-security)
+- [Testing](#-testing)
+- [How to Run](#️-how-to-run)
+  - [Clone the repository](#1-clone-the-repository)
+  - [Install dependencies](#2-install-dependencies)
+    - [Backend](#backend-1)
+    - [Frontend](#frontend-1)
+  - [Run the application](#3-run-the-application)
+    - [Start backend server](#start-backend-server)
+    - [Start frontend](#start-frontend)
+- [Project Limitations](#️-project-limitations)
+- [Future Improvements](#-future-improvements)
+- [Key Concepts Demonstrated](#-key-concepts-demonstrated)
+- [Screenshots](#screenshots)
+- 
 ## 🚀 Features
 
 - 🔍 **User Search**
@@ -139,6 +162,8 @@ npm start
 - Web security basics using Helmet
 
 ---
+
+## Screenshots
 
 ## 📖 About the Project
 
