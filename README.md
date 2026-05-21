@@ -163,8 +163,6 @@ npm start
 
 ---
 
-## Screenshots
-
 ## 📖 About the Project
 
 This project was developed as part of a full-stack web development capstone. It demonstrates the ability to build a scalable application that integrates with third-party APIs while maintaining clean architecture, security, and testing practices.
